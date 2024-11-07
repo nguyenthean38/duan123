@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649070503522",
+    "project_id": "duanflutter",
+    "storage_bucket": "duanflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649070503522:android:8edb10a9e162013b4c933b",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvwG1pAAhN6GMFdOcGUBtwGRhpagMOJ9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
